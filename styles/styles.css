@@ -218,7 +218,7 @@ footer {
     text-align: center;
 }
 
-/* Стили для панели управления стилями */
+
 .style-panel {
     position: fixed;
     bottom: 0;
@@ -254,7 +254,7 @@ footer {
     text-align: center;
 }
 
-/* При открытии панели */
+
 .style-panel.open {
     height: 300px;
 }
